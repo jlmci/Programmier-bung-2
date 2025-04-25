@@ -10,4 +10,4 @@ power_W = data['PowerOriginal']
 sorted_power_W = bubble_sort(power_W)
 
 # Plot the power curve
-plot_power_curve(sorted_power_W)
+plot_power_curve(sorted_power_W, save=True)  

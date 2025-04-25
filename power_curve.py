@@ -43,10 +43,11 @@ def plot_power_curve(sorted_power_W, save=False):
 
     if save:
         # Save the figure
-        fig.savefig('power_curve.png', dpi=300, bbox_inches='tight')
+        name = input("Enter the name of the figure: ")
+        fig.savefig('figures/{}.png'.format(name), dpi=300, bbox_inches='tight')
         print("Figure saved as 'power_curve.png'")
 
 if __name__ == "__main__":
     import numpy as np
     test_data = np.array([1, 2, 5, 7, 10])
-    plot_power_curve(test_data, save=False) # save = True to save the figure
+    plot_power_curve(test_data, save=True) # save = True to save the figure
