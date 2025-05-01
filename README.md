@@ -20,4 +20,4 @@ Möchtest du nun eine powercurve mit deinen Daten erzeugen, musst du deine Daten
 
 ### Abbildung
 Hier ist die Abbildung, der ersten Aufgabe, die die Main datei erzeugt, sie dient als Beispielbild:
-![Diagramm](figures/power_curve.png)
+![Diagramm](figures/Beispielbild.png)
