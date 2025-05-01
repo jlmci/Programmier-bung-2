@@ -1,4 +1,4 @@
-# Programmier-bung-2
+# Programmieruebung-2
 Jakob Ladurner,
 Janick Hoffmann
 
