@@ -1,5 +1,5 @@
 # Programmier-bung-2
-Jakob Ladurner
+Jakob Ladurner,
 Janick Hoffmann
 
 ## Aufgabe 1
